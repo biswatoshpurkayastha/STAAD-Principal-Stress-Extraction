@@ -1,0 +1,6 @@
+openstaadpy
+numpy
+scipy
+matplotlib
+pyvista
+PySide6
